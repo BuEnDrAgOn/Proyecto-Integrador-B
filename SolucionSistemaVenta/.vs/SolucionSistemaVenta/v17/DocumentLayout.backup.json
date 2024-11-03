@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ susssss\\GUARDADO PROYECTO NO TOCAR\\SolucionSistemaVenta\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CC44BAF4-642B-43E8-BFBA-680D92BCF0BC}|SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj|d:\\ susssss\\guardado proyecto no tocar\\solucionsistemaventa\\sistemaventa.aplicacionweb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CC44BAF4-642B-43E8-BFBA-680D92BCF0BC}|SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj|solutionrelative:sistemaventa.aplicacionweb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D4EFBF7-E679-4AA8-84D2-EF6AAE02DE8B}|SistemaVenta.BLL\\SistemaVenta.BLL.csproj|d:\\ susssss\\guardado proyecto no tocar\\solucionsistemaventa\\sistemaventa.bll\\sistemaventa.bll.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9D4EFBF7-E679-4AA8-84D2-EF6AAE02DE8B}|SistemaVenta.BLL\\SistemaVenta.BLL.csproj|solutionrelative:sistemaventa.bll\\sistemaventa.bll.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D4EFBF7-E679-4AA8-84D2-EF6AAE02DE8B}|SistemaVenta.BLL\\SistemaVenta.BLL.csproj|d:\\ susssss\\guardado proyecto no tocar\\solucionsistemaventa\\sistemaventa.bll\\implementacion\\firebaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D4EFBF7-E679-4AA8-84D2-EF6AAE02DE8B}|SistemaVenta.BLL\\SistemaVenta.BLL.csproj|solutionrelative:sistemaventa.bll\\implementacion\\firebaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B15D630A-F66A-4F8B-AB8C-CCC2E47A8E79}|SistemaVenta.IOC\\SistemaVenta.IOC.csproj|d:\\ susssss\\guardado proyecto no tocar\\solucionsistemaventa\\sistemaventa.ioc\\dependencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B15D630A-F66A-4F8B-AB8C-CCC2E47A8E79}|SistemaVenta.IOC\\SistemaVenta.IOC.csproj|solutionrelative:sistemaventa.ioc\\dependencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC44BAF4-642B-43E8-BFBA-680D92BCF0BC}|SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj|d:\\ susssss\\guardado proyecto no tocar\\solucionsistemaventa\\sistemaventa.aplicacionweb\\views\\categoria\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CC44BAF4-642B-43E8-BFBA-680D92BCF0BC}|SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj|solutionrelative:sistemaventa.aplicacionweb\\views\\categoria\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D4EFBF7-E679-4AA8-84D2-EF6AAE02DE8B}|SistemaVenta.BLL\\SistemaVenta.BLL.csproj|d:\\ susssss\\guardado proyecto no tocar\\solucionsistemaventa\\sistemaventa.bll\\interfaces\\iusuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D4EFBF7-E679-4AA8-84D2-EF6AAE02DE8B}|SistemaVenta.BLL\\SistemaVenta.BLL.csproj|solutionrelative:sistemaventa.bll\\interfaces\\iusuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 141,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SistemaVenta.BLL.csproj",
+              "DocumentMoniker": "D:\\ susssss\\GUARDADO PROYECTO NO TOCAR\\SolucionSistemaVenta\\SistemaVenta.BLL\\SistemaVenta.BLL.csproj",
+              "RelativeDocumentMoniker": "SistemaVenta.BLL\\SistemaVenta.BLL.csproj",
+              "ToolTip": "D:\\ susssss\\GUARDADO PROYECTO NO TOCAR\\SolucionSistemaVenta\\SistemaVenta.BLL\\SistemaVenta.BLL.csproj",
+              "RelativeToolTip": "SistemaVenta.BLL\\SistemaVenta.BLL.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-11T17:31:35.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\ susssss\\GUARDADO PROYECTO NO TOCAR\\SolucionSistemaVenta\\SistemaVenta.AplicacionWeb\\appsettings.json",
+              "RelativeDocumentMoniker": "SistemaVenta.AplicacionWeb\\appsettings.json",
+              "ToolTip": "D:\\ susssss\\GUARDADO PROYECTO NO TOCAR\\SolucionSistemaVenta\\SistemaVenta.AplicacionWeb\\appsettings.json",
+              "RelativeToolTip": "SistemaVenta.AplicacionWeb\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-11T17:27:15.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Dependencia.cs",
+              "DocumentMoniker": "D:\\ susssss\\GUARDADO PROYECTO NO TOCAR\\SolucionSistemaVenta\\SistemaVenta.IOC\\Dependencia.cs",
+              "RelativeDocumentMoniker": "SistemaVenta.IOC\\Dependencia.cs",
+              "ToolTip": "D:\\ susssss\\GUARDADO PROYECTO NO TOCAR\\SolucionSistemaVenta\\SistemaVenta.IOC\\Dependencia.cs",
+              "RelativeToolTip": "SistemaVenta.IOC\\Dependencia.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAgwBEAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T17:09:36.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FireBaseService.cs",
+              "DocumentMoniker": "D:\\ susssss\\GUARDADO PROYECTO NO TOCAR\\SolucionSistemaVenta\\SistemaVenta.BLL\\Implementacion\\FireBaseService.cs",
+              "RelativeDocumentMoniker": "SistemaVenta.BLL\\Implementacion\\FireBaseService.cs",
+              "ToolTip": "D:\\ susssss\\GUARDADO PROYECTO NO TOCAR\\SolucionSistemaVenta\\SistemaVenta.BLL\\Implementacion\\FireBaseService.cs",
+              "RelativeToolTip": "SistemaVenta.BLL\\Implementacion\\FireBaseService.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAowBkAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T17:04:22.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\ susssss\\GUARDADO PROYECTO NO TOCAR\\SolucionSistemaVenta\\SistemaVenta.AplicacionWeb\\Views\\Categoria\\Index.cshtml",
+              "RelativeDocumentMoniker": "SistemaVenta.AplicacionWeb\\Views\\Categoria\\Index.cshtml",
+              "ToolTip": "D:\\ susssss\\GUARDADO PROYECTO NO TOCAR\\SolucionSistemaVenta\\SistemaVenta.AplicacionWeb\\Views\\Categoria\\Index.cshtml",
+              "RelativeToolTip": "SistemaVenta.AplicacionWeb\\Views\\Categoria\\Index.cshtml",
+              "ViewState": "AQIAAFQAAAAAAAAAAAAAAGsAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-11T17:00:34.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IUsuarioService.cs",
+              "DocumentMoniker": "D:\\ susssss\\GUARDADO PROYECTO NO TOCAR\\SolucionSistemaVenta\\SistemaVenta.BLL\\Interfaces\\IUsuarioService.cs",
+              "RelativeDocumentMoniker": "SistemaVenta.BLL\\Interfaces\\IUsuarioService.cs",
+              "ToolTip": "D:\\ susssss\\GUARDADO PROYECTO NO TOCAR\\SolucionSistemaVenta\\SistemaVenta.BLL\\Interfaces\\IUsuarioService.cs",
+              "RelativeToolTip": "SistemaVenta.BLL\\Interfaces\\IUsuarioService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T16:36:11.698Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
